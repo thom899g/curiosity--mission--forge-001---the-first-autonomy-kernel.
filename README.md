@@ -1,0 +1,2 @@
+# curiosity--mission--forge-001---the-first-autonomy-kernel.
+A dedicated development sprint to build the first minimal, functioning component of the Recursive Self-Improvement Engine: a self-auditing profit/loss tracker that can propose, based on simple rules, the most capital-efficient action (e.g., "code a client feature" vs. "execute a defined trade"). It must run locally, commit its own code, and log its
